@@ -178,7 +178,7 @@ section {
 .header .logo img {
   max-height: 40px;
   margin-right: 6px;
-  filter: brightness(0) invert(1);
+  filter: brightness(0) invert(0);
 }
 
 .header .logo h1 {
@@ -880,6 +880,10 @@ section {
   padding-bottom: 0;
   visibility: visible;
   opacity: 1;
+}
+
+.bolds a{
+  font-weight: bold;
 }
 
 

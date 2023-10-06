@@ -13,7 +13,7 @@ const Header = () => {
 
         <nav id="navmenu" className="navmenu">
           <ul>
-            <li><a href="index.html#hero" className="active">Inicio</a></li>
+            <li><a href="index.html#hero" className="bolds">Inicio</a></li>
             <li><a href="index.html#team">Team</a></li>
           </ul>
           <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
